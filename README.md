@@ -28,3 +28,15 @@ number of purchases is shared return all Genres
 country. Write a query that returns the country along with the top customer and how
 much they spent. For countries where the top amount spent is shared, provide all
 customers who spent this amount
+
+# Tools I Used
+
+For my deep analysis into the sales, I harnessed the power of several key tools:
+
+- **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
+
+- **PostgreSQL:** The chosen database management system, ideal for handling the music store data.
+
+- **Visual Studio Code:** My go-to for database management and executing SQL queries.
+
+- **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
